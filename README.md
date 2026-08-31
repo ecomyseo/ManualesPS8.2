@@ -32,6 +32,41 @@ sus productos, sus clientes y sus pedidos.
 
 ---
 
+## Por qué son 73 manuales y el último es el 114
+
+El número **no es un contador: es una dirección**. La decena dice a qué bloque pertenece
+el manual, y entre bloque y bloque se dejan huecos a propósito.
+
+| Bloque | Rango usado | Huecos libres |
+|---|---|---|
+| Entrada | 00-01 | 02-09 |
+| Catálogo | 10-28 | 29 |
+| Pedidos y ventas | 30-39 | — |
+| Clientes | 40-44 | 45-49 |
+| Transporte | 50-53 | 54 |
+| Pago | 55-56 | 57-59 |
+| Internacional | 60-63 | 64-69 |
+| Diseño | 70-75 | 76-79 |
+| Módulos | 80-83 | 84 |
+| Estadísticas | 85 | 86-89 |
+| Parámetros de la tienda | 90-96 | 97-99 |
+| Parámetros avanzados | 100-103 | 104-109 |
+| Guías prácticas | 110-114 | — |
+
+73 números ocupados y 42 libres entre el 00 y el 114.
+
+La razón es práctica: **los manuales se citan entre ellos por su número** todo el rato
+(«el IGIC canario está en el 62», «el detalle de las miniaturas, en el 74»). Hay más de
+cien referencias cruzadas de ese tipo. Con una numeración correlativa, añadir mañana un
+manual nuevo obligaría a renumerar todo lo que viene detrás y a repasar esas cien
+referencias una a una. Con huecos, el manual nuevo entra en su bloque y no se mueve nada.
+
+Efecto secundario que conviene saber: **el orden alfabético de la carpeta no es el orden
+de lectura** (el `100` aparece antes que el `11`). El orden bueno es el de esta página y
+el del índice del PDF unificado.
+
+---
+
 ## Los 73 manuales
 
 ### Entrada
