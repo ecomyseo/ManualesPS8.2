@@ -1,3 +1,15 @@
+# PrestaShop 8.2 manuals (Spanish)
+
+**73 PDF manuals in Spanish for PrestaShop 8.2 store owners, with real back-office screenshots.**
+
+- 73 manuals + one merged PDF
+
+> 🇪🇸 Documentación completa en castellano más abajo · Full docs below (Spanish).
+
+⭐ If this saves you time, a star helps other people find it.
+
+---
+
 # Manuales de PrestaShop 8.2
 
 **73 manuales en PDF** para el dueño de una tienda PrestaShop, en castellano y con las
